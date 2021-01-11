@@ -2,7 +2,7 @@
 # Pagina de login
 ![alt text](https://github.com/BeucaDaniel95/managerdespital/new/master/imagini_interfata/login.png?raw=true)
 # Pagina de dashboard
-![alt text](https://github.com/BeucaDaniel95/managerdespital/new/master/imagini_interfata/dashboard.png?raw=true)
+![alt text](https://github.com/BeucaDaniel95/managerdespital/blob/master/imagin_interfata/dashboard.PNG)
 # Pagina de edit patient
 ![alt text](https://github.com/BeucaDaniel95/managerdespital/new/master/imagini_interfata/edit patient.png?raw=true)
 # Pagina de add patient
